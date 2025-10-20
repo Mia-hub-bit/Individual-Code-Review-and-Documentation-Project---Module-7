@@ -1,3 +1,6 @@
+I refactored the original code. Here are my reasons for doing so:
+
+
 Refactoring Decisions:
 
 I refactored the original do_math_stuff function to make the code cleaner, more Pythonic, and easier for others to understand quickly. I focused on clarity through naming, using a list comprehension, and adding better documentation.
